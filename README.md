@@ -7,4 +7,4 @@ In this activity, you should follow the steps in the `analysis.R` file, then cre
 
 Then, click the `knit` button to compile your file to a webpage. To view the page on the web, push your code up to GitHub, then visit:
 
-http://info201a-au2022.github.io/rmd-practice-YOUR-USER-NAME
+http://info201a-au2022.github.io/rmd-practice-katherinemurphy2001
